@@ -2,7 +2,6 @@ import os
 import time
 import cv2
 import numpy as np
-from matplotlib import pyplot as plt
 from itertools import islice
 import random
 import re
